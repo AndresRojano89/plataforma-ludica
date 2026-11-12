@@ -4,7 +4,7 @@ Prototipo de una plataforma web lúdica de cursos para niños, desarrollado con 
 
 - **Aprendiz:** Andres David Rojano Celin
 - **Curso y mecánica:** Inglés + Estrellas
-- **Aplicación publicada:** (complete con la URL de Render)
+- **Aplicación publicada:** https://plataforma-ludica-ort4.onrender.com
 
 ## Ejecutar en su equipo
 
