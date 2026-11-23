@@ -11,8 +11,15 @@ Me comprometo a cumplir las siguientes reglas durante el desarrollo de este proy
 
 | Comandos que el agente puede ejecutar sin confirmación | Comandos que requieren mi confirmación |
 | --- | --- |
-| (complete) | (complete) |
+| `python -m pytest`, `pytest` | Crear, editar o borrar archivos |
+| `ruff check .` | `pip install` y cualquier instalación de dependencias |
+| `git status`, `git diff`, `git log` (solo lectura) | Cualquier otro comando de la terminal |
+| | `git commit` y `git push`: nunca los ejecuta el agente, los hago yo |
 
-**Nombre:** (complete)
+## Aceptación
 
-**Fecha:** (complete)
+Leí esta política y la acepto. Respondo por todo lo que entrego.
+
+**Nombre:** Andrés David Rojano Celin
+
+**Fecha:** 2026-11-22
